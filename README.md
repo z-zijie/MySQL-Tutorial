@@ -2,4 +2,7 @@
 
 Basic MySQL Tutorial
 
-## Querying data
+# Table of Contents
+
+1. [Query](/Query)
+2. [Sort](/Sort)
