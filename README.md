@@ -2,7 +2,16 @@
 
 Basic MySQL Tutorial
 
-# Table of Contents
+## Table of Contents
 
-1. [Query](/Query)
-2. [Sort](/Sort)
+1. [Example Database](/mysqlsampledatabase.sql)
+
+```sh
+> mysql -u root -p
+Enter password: ********
+
+mysql> source mysqlsampledatabase.sql
+```
+
+2. [Query](/Query)
+3. [Sort](/Sort)
