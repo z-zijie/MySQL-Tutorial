@@ -13,5 +13,5 @@ Enter password: ********
 mysql> source mysqlsampledatabase.sql
 ```
 
-2. [Query](/Query)
-3. [Sort](/Sort)
+2. [SELECT](/SELECT)
+3. [ORDER BY](/ORDER BY)
