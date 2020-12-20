@@ -1,6 +1,7 @@
 # MySQL Tutorial
 
 Basic MySQL Tutorial
+Non-academic style tutorials, demand-oriented learning.
 
 ## Table of Contents
 
