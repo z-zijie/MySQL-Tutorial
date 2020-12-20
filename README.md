@@ -1,4 +1,4 @@
-# MySQL-Tutorial
+# MySQL Tutorial
 
 Basic MySQL Tutorial
 
@@ -16,3 +16,5 @@ mysql> source mysqlsampledatabase.sql
 
 2. [SELECT](/SELECT)
 3. [ORDER BY](/ORDER%20BY)
+4. Filtering data
+   1. [WHERE](/WHERE)
