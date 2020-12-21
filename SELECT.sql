@@ -1,10 +1,12 @@
+USE classicmodels;
+SHOW TABLES;
+
 # SELECT select_list
 # FROM table_name;
 
-SELECT
-    lastName,
-    firstName,
-    jobTitle
+SELECT lastName,
+       firstName,
+       jobTitle
 FROM employees;
 
 SELECT *
